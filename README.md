@@ -65,6 +65,7 @@ Exemplo da resposta:
 
 Além de realizar a request, devemos aplicar alguns filtros na API:
 
+- O resultado da API deve ser armazenado em um estado global. (Pode ser utilizado Redux, Context, Vuex ou tecnologia equivalente do framework utilizado)
 - Limitar em 50 resultados por request
 - Adicionar o parâmetro de paginação para controlar o `Loading more`
 
@@ -85,6 +86,14 @@ Devemos exibir os seguintes campos do paciente:
 - Nacionalidade
 - Endereço
 - ID (Número de identificação)
+- URL para compartilhamento
+
+### URL para compartilhar paciente
+
+Ao acessar a aplicação diretamente por essa URL a aplicação deve abrir o modal com as informações do paciente. 
+
+- A URL deve conter o ID do paciente
+- Abrir o modal com as informações do paciente ao acessar a aplicação por essa URL
 
 ## Extras
 
