@@ -66,7 +66,7 @@ Exemplo da resposta:
 Além de realizar a request, devemos aplicar alguns filtros na API:
 
 - O resultado da API deve ser armazenado em um estado global. (Pode ser utilizado Redux, Context, Vuex ou tecnologia equivalente do framework utilizado)
-- Limitar em 50 resultados por request
+- Limitar cada requisição da página em  50 resultados para não sobrecarregar a API.
 - Adicionar o parâmetro de paginação para controlar o `Loading more`
 
 ### Visualizar paciente
