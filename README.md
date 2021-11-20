@@ -19,7 +19,7 @@ O seu objetivo nesse projeto, é trabalhar no desenvolvimento do Front end que c
 
 1. Estudar a documentação da REST API: https://randomuser.me/documentation
 2. Utilizar React.js ou Vue.js ou Angular 8+ para construir a solução do Challenge;
-3. Utilizar Frameworks CSS, recomendamos alguns como:
+3. Utilizar Frameworks CSS ou estilo proprio, recomendamos alguns como:
 
       - Tailwind CSS: https://tailwindcss.com/
       - Material UI: https://material-ui.com/
@@ -27,7 +27,7 @@ O seu objetivo nesse projeto, é trabalhar no desenvolvimento do Front end que c
       - Bootstrap: https://getbootstrap.com/
       - Bulma: https://bulma.io/
 
-4. Trabalhar em um [FORK](https://lab.coodesh.com/help/gitlab-basics/fork-project.md) deste repositório em seu usuário ou utilizar um repositório em seu github pessoal (não esqueça de colocar no readme a referência a este challenge);
+4. Trabalhar em um repositório em seu usuário ou utilizar o seu github pessoal (não esqueça de colocar no readme a referência a este challenge);
 
 
 ## Lista de Pacientes
