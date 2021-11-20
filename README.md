@@ -118,24 +118,21 @@ Além do desafio proposto com as duas telas, temos alguns diferenciais:
 
 Avisar sobre a finalização e enviar para correção.
 
-1. Confira se respondeu o Scorecard Front-end;
-2. Verique se o Readme está bom e faça o commit final em seu repositório;
-3. Acesse: [https://coodesh.com/review-challenge](https://coodesh.com/review-challenge);
-4. Coloque seu nome completo; 
-5. Coloque seu e-mail;
-6. Adicione o repositório com a sua solução;
-7. Confira a vaga desejada;
+1. Confira se você respondeu o Scorecard Front-end;
+2. Crie uma conta na plataforma: https://www.loom.com/ e instale o Desktop App ou Extensão no Chrome: https://www.loom.com/download
+3. Grave um vídeo, com no máximo 5 minutos, com a apresentação do seu projeto. Foque nos pontos obrigatórios e diferenciais quando for apresentar.
+4. Adicione o link da apresentação do seu projeto no README.md.
+5. Verifique se o Readme está bom e faça o commit final em seu repositório;
+6. Acesse: [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review);
+7. Coloque seu nome completo; 
+8. Coloque seu e-mail;
+9. Adicione o repositório com a sua solução;
+10. Adicione o link da apresentação do seu projeto
+11. Confira a vaga desejada;
 
 ![Solicitar Correção](https://res.cloudinary.com/coodesh/image/upload/v1612571243/coodesh-teams/challenges/repo.gif)
 
-8. Envie e aguarde as instruções para apresentação da sua solução
-
-## Instruções para se preparar para a Apresentação:
-
-1. Aguarde o e-mail com as instruções de apresentação 
-2. Enquanto isso, crie uma conta na plataforma: https://www.loom.com/ e instale o Desktop App ou Extensão no Chrome: https://www.loom.com/download 
-3. DICA: Será necessário compartilhar a tela durante a gravação ou vídeo chamada. Deixe todos os projetos de solução previamente abertos em seu computador antes de iniciar a gravação ou chamanda de vídeo. Ambientes configurados e prontos para rodar.
-4. Prepara-se pois você será questionado sobre cada etapa e decisão do Challenge. Prepare uma lista de perguntas, dúvidas, sugestões de melhorias e feedbacks (caso tenha).
+12. Envie e aguarde as instruções para seguir no processo. Sucesso e boa sorte. =)
 
 ## Suporte
 
